@@ -97,6 +97,10 @@ None
 
 #### 4.5 DB Entities
 
+**Concept Level**
+
+![ERD Concept Level](./images/erd-concept-level.jpg)
+
 #### 4.6 Infrastructure
 
 - [Infrastructure](./images/infrastructure.jpg)
