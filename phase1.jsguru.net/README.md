@@ -65,6 +65,7 @@ Users:
 - Dataset
 - Blog
 - Setting
+- Calendar (Event)
 
 #### 1.3 Integration
 
@@ -100,6 +101,10 @@ None
 **Concept Level**
 
 ![ERD Concept Level](./images/erd-concept-level.jpg)
+
+![ERD Concept Schema Blog Module](./images/erd-blog-module.jpg)
+
+![ERD Concept Schema Main Modules](./images/erd-main-modules.jpg)
 
 #### 4.6 Infrastructure
 
